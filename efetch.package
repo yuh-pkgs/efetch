@@ -3,4 +3,4 @@ name: efetch
 version_id: "1.0"
 path: efetch.package
 command: mv efetch /usr/bin/efetch
-print_command_output: true
+print_command_output: false
